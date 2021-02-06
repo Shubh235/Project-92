@@ -1,0 +1,133 @@
+.body_background {
+    background-image: linear-gradient(to right, purple, yellow);
+    background-color: rgb(245, 183, 112);
+}
+
+.body_background1 {
+    background-image: linear-gradient(to right, rgb(218, 40, 40), rgb(255, 136, 0));
+}
+
+#Error_Label {
+    font-weight: 900;
+    text-decoration: inherit;
+    text-align: center;
+    font-size: 25px;
+    text-shadow: 3px 3px yellow;
+    color: orangered;
+}
+
+#label {
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 50px;
+    color: rgb(133, 5, 5);
+    text-shadow: 4px 4px rgb(4, 0, 255);
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(8, 14, 10);
+    text-shadow: 2px 2px rgb(251, 255, 0);
+    margin-top: 0px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(8, 14, 10);
+    text-shadow: 2px 2px rgb(251, 255, 0);
+}
+
+#player1_name_input {
+    color: darkblue;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#player2_name_input {
+    color: darkblue;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.login_div1,
+.login_div2 {
+    background: rgb(166, 228, 107);
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    border-style: dotted;
+}
+
+.btn {
+    background-color: coral;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    border-color: black;
+    border-style: double;
+    border-width: thick;
+    border-radius: 10px;
+}
+
+.btn1 {
+    background-color: rgb(243, 13, 13);
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(240, 187, 15);
+    border-color: black;
+    border-style: double;
+    border-width: thick;
+    border-radius: 10px;
+}
+
+#player1_name,
+#player2_name {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#word {
+    width: 60%;
+}
+
+#word_display {
+    letter-spacing: 5px;
+}
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#Number_1,
+#Number_2 {
+    width: 60%;
+    background: rgb(231, 71, 124);
+    text-align: center;
+    font-size: 25px;
+    color: rgb(4, 0, 255);
+    font-weight: bold;
+}
+
+.login_div3,
+.login_div4 {
+    background: rgb(96, 93, 240);
+    padding: 25px;
+    float: none;
+    border-radius: 25px;
+    border-style: dotted;
+}
